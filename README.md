@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anthony Borton and I'm based in Brisbane, Australia. During the dya, I'm the Field Service Director for APAC-East at GitHub.
+My name is Anthony Borton and I'm based in Brisbane, Australia. During the day, I'm the Field Service Director for APAC-East at GitHub.
 
 Feel free to reach out to me with any questions about GitHub, Azure DevOps and DevOps in general.
 
